@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my app on Google Play: MaxNote — https://play.google.com/store/apps/details?id=com.maxciv.maxnote 
+
 <!--
 **MaxCiv/MaxCiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
